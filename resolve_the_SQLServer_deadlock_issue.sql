@@ -1,5 +1,5 @@
 -- =============================================
---文件    :createAndUpdate.sql
+--文件    :resolve_the_SQLServer_deadlock_issue.sql
 --说明    :解决SQLserver死锁问题
 --时间    :2020/12/25 10:30:12
 --作者    :一直都没有暴富成功的小何
