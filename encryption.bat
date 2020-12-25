@@ -1,3 +1,4 @@
+::打开老王的正确方式 加密文件夹
 cls
 @ECHO OFF
 title Folder Private
